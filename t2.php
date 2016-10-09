@@ -1,6 +1,6 @@
 <?php
 class D{
     function t2(){
-        echo "u22tttt444uuuu do";
+        echo "u22tttt444uuuu do kkk jjjjjj";
     }
 }
